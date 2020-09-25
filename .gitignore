@@ -1,2 +1,4 @@
 settings.py
 requirements.txt
+.idea
+__pycache__
